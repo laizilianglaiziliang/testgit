@@ -5,9 +5,4 @@
 55555555
 66666666
 7777
-<<<<<<< Updated upstream
-aaaaaa
 
-=======
-bbbbbb
->>>>>>> Stashed changes
